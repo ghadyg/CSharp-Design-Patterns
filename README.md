@@ -38,7 +38,7 @@
 
 ##  Overview
 
-<code>This project was developed as part of a design pattern course, where it received a high score of 90/100. It is a restaurant application designed to streamline the process of ordering food from restaurants.
+<code>This project was developed as part of a design pattern course, where it received a high score of 85/100. It is a restaurant application designed to streamline the process of ordering food from restaurants.
 
 Users can browse through a selection of available food items, choose the items they want to purchase, specify the quantity, and complete the purchase seamlessly within the application.</code>
 
